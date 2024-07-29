@@ -10,6 +10,5 @@ body{
     height: 100vh;
 }
 h1{
-    color: green;
-    background-color: yellow;
+    background-color: rgb(255, 0, 191);
 }
